@@ -84,7 +84,13 @@ Rules that are not same as IOI 2017 Rule:
 ## Contest Site
 
 - [Contest Site](https://cms.ioi-jp.org)
-- Registration will be open at least 30 minutes before the contest.
+- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
+
+## Questionnaire
+We appreciate your feedback on our contest!
+Please answer the questionnaire after the contest.
+
+- [JOI Open Contest 2021 Survey](https://forms.gle/nWH7fnAKt7CGa1qv5)
 
 ## Ranking
 
@@ -105,12 +111,6 @@ These will be released after the contest.
 ## Test Data
 
 These will be released after the contest.
-
-## Questionnaire
-We appreciate your feedback on our contest!
-Please answer the questionnaire after the contest.
-
-- This will be released after the contest.
 
 ## Contact
 
