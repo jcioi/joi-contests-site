@@ -84,7 +84,6 @@ Rules that are not same as IOI 2017 Rule:
 ## Contest Site
 
 - [Contest Site](https://cms.ioi-jp.org)
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
 
 ## Questionnaire
 We appreciate your feedback on our contest!
@@ -94,23 +93,33 @@ Please answer the questionnaire after the contest.
 
 ## Ranking
 
-This will be released after the contest.
+- [Ranking](ranking.html)
 
 ## Statements
 
-These will be released after the contest.
+- crossing [en]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-statement-en.pdf) / [ja]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-statement.pdf)
+- financial [en]({{ site.datadir }}/open-2021/financial/2021-open-financial-statement-en.pdf) / [ja]({{ site.datadir }}/open-2021/financial/2021-open-financial-statement.pdf)
+- monster [en]({{ site.datadir }}/open-2021/monster/2021-open-monster-statement-en.pdf) / [ja]({{ site.datadir }}/open-2021/monster/2021-open-monster-statement.pdf)
 
 ## Reviews
 
-These will be released after the contest.
+- crossing <!--[en]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol.pdf)
+- financial <!--[en]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol.pdf)
+- monster <!--[en]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol.pdf)
+
+English reviews will be released soon.
 
 ## Sample Sources
 
-These will be released after the contest.
+- crossing [sol]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol.cpp)
+- financial [sol]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol.cpp)
+- monster [sol]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol.cpp)
 
 ## Test Data
 
-These will be released after the contest.
+- [crossing]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-test-data.tar.gz)
+- [financial]({{ site.datadir }}/open-2021/financial/2021-open-financial-test-data.tar.gz)
+- [monster]({{ site.datadir }}/open-2021/monster/2021-open-monster-test-data.tar.gz)
 
 ## Contact
 
