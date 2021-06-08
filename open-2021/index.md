@@ -103,11 +103,9 @@ Please answer the questionnaire after the contest.
 
 ## Reviews
 
-- crossing <!--[en]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol.pdf)
-- financial <!--[en]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol.pdf)
-- monster <!--[en]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol-en.pdf) / -->[ja]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol.pdf)
-
-English reviews will be released soon.
+- crossing [en]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol-en.pdf) / [ja]({{ site.datadir }}/open-2021/crossing/2021-open-crossing-sol.pdf)
+- financial [en]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol-en.pdf) / [ja]({{ site.datadir }}/open-2021/financial/2021-open-financial-sol.pdf)
+- monster [en]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol-en.pdf) / [ja]({{ site.datadir }}/open-2021/monster/2021-open-monster-sol.pdf)
 
 ## Sample Sources
 
