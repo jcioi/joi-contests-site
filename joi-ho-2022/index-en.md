@@ -63,4 +63,4 @@ Rules that are the different from [The 21th Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- Contest site including registration form and live scoreboard will be open at least 30 minutes before the contest starts.
+- Contest site including registration form and live scoreboard will be open at least 10 minutes before the contest starts.
