@@ -13,7 +13,7 @@ Japanese version is available [here](./index.html).
 **The 21th Japanese Olympiad in Informatics Final Round Online Contest** is the online contest of [The 21th Japanese Olympiad in Informatics Final Round](https://www.ioi-jp.org/joi/2021/honsen.html).
 The contest is open to everybody.
 
-No prizes will be given to the contestants. The ranking including the contestants' usernames and scores of each task will be published after the contest.
+No prizes will be given to the contestants. Live scoreboard will be provided during the contest. The ranking including the contestants' usernames and scores of each task will be published here after the contest.
 
 We will not publish the source code submitted to this contest without permission from the participants.
 
