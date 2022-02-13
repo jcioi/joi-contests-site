@@ -60,4 +60,5 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- コンテストサイトとライブスコアボードの URL はコンテスト開始 10 分前までに公開します．
+- コンテストサイト: https://cms.ioi-jp.org
+- ライブスコアボード: https://ranking.cms.ioi-jp.org/Ranking.html
