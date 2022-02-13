@@ -40,7 +40,7 @@ After the contest finishes, we will open the judging server for one week. Intere
   <dd>English, Japanese</dd>
 
   <dt>Date</dt>
-  <dd>Sunday, February 13, 2021</dd>
+  <dd>Sunday, February 13, 2022</dd>
   <dd>16:00 - 20:00 +0900 (JST)</dd>
   <dd>07:00 - 11:00 (UTC/GMT)</dd>
 </dl>
