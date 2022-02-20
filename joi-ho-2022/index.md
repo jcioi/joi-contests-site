@@ -60,5 +60,12 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- コンテストサイト: https://cms.ioi-jp.org
-- ライブスコアボード: https://ranking.cms.ioi-jp.org/Ranking.html
+コンテストは終了しました．
+
+## ランキング
+
+- [ランキング](ranking.html)
+
+## 問題文・採点用入出力データ・解説
+
+問題文・採点用入出力データ・解説は [JOI 2021/2022 本選 問題・データ](https://www.ioi-jp.org/joi/2021/2022-ho/index.html) で公開されています．
