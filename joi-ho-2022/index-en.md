@@ -63,5 +63,12 @@ Rules that are the different from [The 21th Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- Contest site: https://cms.ioi-jp.org
-- Live Scoreboard: https://ranking.cms.ioi-jp.org/Ranking.html
+The contest is over.
+
+## Ranking
+
+- [Ranking](ranking.html)
+
+## Task statements and dataset
+
+Task statements and dataset are available in [JOI 2021/2022 本選 問題・データ](https://www.ioi-jp.org/joi/2021/2022-ho/index.html) (Japanese).
