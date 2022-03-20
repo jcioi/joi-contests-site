@@ -69,6 +69,6 @@ English version is available [here](./index-en.html).
 
 - [コンテストサイト](https://cms.ioi-jp.org)
 
-## ランキング
+## ライブスコアボード
 
 - [ライブスコアボード](https://ranking.cms.ioi-jp.org)
