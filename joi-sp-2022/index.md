@@ -6,6 +6,10 @@ breadcrumb:
   - ["/", "Home"]
 ---
 
+## Contest 3 サーバートラブルについて
+Contest 3 中にサーバートラブルが発生し，提出がジャッジされない不具合が発生しています．
+現在原因を調査中です．ご不便をおかけして申し訳ございません．
+
 ## 概要
 
 English version is available [here](./index-en.html).

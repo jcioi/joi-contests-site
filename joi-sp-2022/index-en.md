@@ -6,6 +6,9 @@ breadcrumb:
   - ["/", "Home"]
 ---
 
+## Contest 3 Server Trouble
+There have been a server problem during Contest 3，which preventing submissions from being judged. We are currently investigating the cause. Sorry for the inconvenience.
+
 ## Overview
 
 Japanese version is available [here](./index.html).
