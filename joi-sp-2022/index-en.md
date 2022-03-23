@@ -7,7 +7,7 @@ breadcrumb:
 ---
 
 ## Contest 3 Server Trouble
-There have been a server problem during Contest 3，which preventing submissions from being judged. We are currently investigating the cause. Sorry for the inconvenience.
+There have been a server problem during Contest 3，which preventing submissions from being judged. The problem has now been resolved and Contest 4 will take place as scheduled. Sorry for the inconvenience.
 
 ## Overview
 
