@@ -76,6 +76,6 @@ Rules that are the different from [The 21th Japanese Olympiad in Informatics Spr
 
 - [Contest Site](https://cms.ioi-jp.org)
 
-## Live Scoreboard
+## Ranking
 
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org)
+- [Ranking](ranking.html)

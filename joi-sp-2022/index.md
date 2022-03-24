@@ -73,6 +73,6 @@ English version is available [here](./index-en.html).
 
 - [コンテストサイト](https://cms.ioi-jp.org)
 
-## ライブスコアボード
+## 順位表
 
-- [ライブスコアボード](https://ranking.cms.ioi-jp.org)
+- [順位表](ranking.html)
