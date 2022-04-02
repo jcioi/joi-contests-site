@@ -6,9 +6,6 @@ breadcrumb:
   - ["/", "Home"]
 ---
 
-## Contest 3 Server Trouble
-There have been a server problem during Contest 3，which preventing submissions from being judged. The problem has now been resolved and Contest 4 will take place as scheduled. Sorry for the inconvenience.
-
 ## Overview
 
 Japanese version is available [here](./index.html).
@@ -74,8 +71,12 @@ Rules that are the different from [The 21th Japanese Olympiad in Informatics Spr
 
 ## Contest Site
 
-- [Contest Site](https://cms.ioi-jp.org)
+The contests are over.
 
 ## Ranking
 
 - [Ranking](ranking.html)
+
+## Tasks and Test Data
+
+The tasks and test data are available in [JOI 2021/2022 Spring Camp Tasks](https://www.ioi-jp.org/camp/2022/2022-sp-tasks/index.html).

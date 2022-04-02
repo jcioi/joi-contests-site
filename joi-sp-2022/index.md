@@ -6,10 +6,6 @@ breadcrumb:
   - ["/", "Home"]
 ---
 
-## Contest 3 サーバートラブルについて
-Contest 3 中にサーバートラブルが発生し，提出がジャッジされない不具合が発生しました．
-現在問題は解決しており，Contest 4 は予定通り行われる予定です．ご不便をおかけして申し訳ございません．
-
 ## 概要
 
 English version is available [here](./index-en.html).
@@ -71,8 +67,12 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- [コンテストサイト](https://cms.ioi-jp.org)
+コンテストは終了しました。
 
 ## 順位表
 
 - [順位表](ranking.html)
+
+## 問題文・テストデータ
+
+問題文・テストデータは[JOI 2021/2022 春季トレーニング合宿　課題](https://www.ioi-jp.org/camp/2022/2022-sp-tasks/index.html)で公開されています。
