@@ -37,3 +37,4 @@ isroot: true
 - [JOI Open Contest 2021](open-2021/index.html) (English)
 - [第21回日本情報オリンピック 本選 オンラインコンテスト](joi-ho-2022/index.html) ([Japanese](joi-ho-2022/index.html) / [English](joi-ho-2022/index-en.html))
 - [第21回日本情報オリンピック 春合宿 オンラインコンテスト](joi-sp-2022/index.html) ([Japanese](joi-sp-2022/index.html) / [English](joi-sp-2022/index-en.html))
+- [JOI Open Contest 2022](open-2022/index.html) (English)
