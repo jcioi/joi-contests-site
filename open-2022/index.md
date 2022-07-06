@@ -97,19 +97,27 @@ Please answer the questionnaire after the contest.
 
 ## Statements
 
-These will be released after the contest.
+- seesaw [en]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-statement-en.pdf) / [ja]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-statement.pdf)
+- giraffes [en]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-statement-en.pdf) / [ja]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-statement.pdf)
+- schoolroad [en]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-statement-en.pdf) / [ja]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-statement.pdf)
 
 ## Reviews
 
-These will be released after the contest.
+- seesaw [en]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-sol.pdf)
+- giraffes [en]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol.pdf)
+- schoolroad [en]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-sol.pdf)
 
 ## Sample Sources
 
-These will be released after the contest.
+- seesaw [sol]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-sol.cpp)
+- giraffes [sol]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol.cpp)
+- schoolroad [sol]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-sol.cpp)
 
 ## Test Data
 
-These will be released after the contest.
+- [seesaw]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-test-data.tar.gz)
+- [giraffes]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-test-data.tar.gz)
+- [schoolroad]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-test-data.tar.gz)
 
 ## Contact
 
