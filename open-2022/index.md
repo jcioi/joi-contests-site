@@ -104,7 +104,7 @@ Please answer the questionnaire after the contest.
 ## Reviews
 
 - seesaw [en]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/seesaw/2022-open-seesaw-sol.pdf)
-- giraffes [en]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol.pdf)
+- giraffes [ja]({{ site.datadir }}/open-2022/giraffes/2022-open-giraffes-sol.pdf)
 - schoolroad [en]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-sol-en.pdf) / [ja]({{ site.datadir }}/open-2022/school_road/2022-open-school_road-sol.pdf)
 
 ## Sample Sources
