@@ -49,7 +49,7 @@ After the contest finishes, we will open the judging server for one week. Intere
 
 ## Rule
 
-Rules that are the same as [The 22th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2022/2023-ho/index.html):
+Rules that are the same as [The 22th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2022/2023-ho-outline.html):
 
 - All submissions will receive full feedback.
 - Contestants may submit at most once per task per minute.
@@ -58,7 +58,7 @@ Rules that are the same as [The 22th Japanese Olympiad in Informatics Final Roun
 - You cannot use C, Pascal nor Java.
 - You may need to write I/O code by yourself. Graders are not provided for all tasks.
 
-Rules that are the different from [The 22th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2022/2023-ho/index.html):
+Rules that are the different from [The 22th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2022/2023-ho-outline.html):
 
 - Question form is available on a contest server, but no replies are guaranteed.
 - You can use CPython and PyPy experimentally in adition to C++. However, each task is optimized for C++, so you may not be able to gain points even though you implement the correct algorithm in Python.
