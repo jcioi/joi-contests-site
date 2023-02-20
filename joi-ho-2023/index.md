@@ -60,5 +60,12 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- [コンテストサイト](https://cms.ioi-jp.org)
-- [ライブスコアボード](https://ranking.cms.ioi-jp.org/Ranking.html)
+コンテストは終了しました．
+
+## ランキング
+
+- [ランキング](ranking.html)
+
+## 問題文・採点用入出力データ・解説
+
+問題文・採点用入出力データ・解説は後日公開されます．

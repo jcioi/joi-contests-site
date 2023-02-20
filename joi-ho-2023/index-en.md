@@ -65,5 +65,12 @@ Rules that are the different from [The 22th Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- [Contest Site](https://cms.ioi-jp.org)
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
+The contest is over.
+
+## Ranking
+
+- [Ranking](ranking.html)
+
+## Task statements and dataset
+
+Task statements and dataset will be available later.
