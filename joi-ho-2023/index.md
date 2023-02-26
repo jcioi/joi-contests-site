@@ -68,4 +68,5 @@ English version is available [here](./index-en.html).
 
 ## 問題文・採点用入出力データ・解説
 
-問題文・採点用入出力データ・解説は後日公開されます．
+問題文・採点用入出力データ・解説は [JOI 2022/2023 本選 問題・データ](https://www.ioi-jp.org/joi/2022/2023-ho/index.html) で公開されています．
+

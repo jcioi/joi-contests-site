@@ -73,4 +73,4 @@ The contest is over.
 
 ## Task statements and dataset
 
-Task statements and dataset will be available later.
+Task statements and dataset are available in [JOI 2022/2023 本選 問題・データ](https://www.ioi-jp.org/joi/2022/2023-ho/index.html) (Japanese).
