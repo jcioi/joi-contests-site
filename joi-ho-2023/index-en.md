@@ -65,4 +65,12 @@ Rules that are the different from [The 22th Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- Contest site including registration form and live scoreboard will be open at least 30 minutes before the contest starts.
+The contest is over.
+
+## Ranking
+
+- [Ranking](ranking.html)
+
+## Task statements and dataset
+
+Task statements and dataset are available in [JOI 2022/2023 本選 問題・データ](https://www.ioi-jp.org/joi/2022/2023-ho/index.html) (Japanese).
