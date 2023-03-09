@@ -1,7 +1,7 @@
 ---
 layout: "default"
 language: "en"
-title: "The 22th Japanese Olympiad in Informatics Spring Camp Online Contest"
+title: "The 22th Japanese Olympiad in Informatics Spring Training Online Contest"
 breadcrumb:
   - ["/", "Home"]
 ---
@@ -10,7 +10,7 @@ breadcrumb:
 
 Japanese version is available [here](./index.html).
 
-**The 22th Japanese Olympiad in Informatics Spring Camp Online Contest** is the online contest of [The 22th Japanese Olympiad in Informatics Spring Camp](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html).
+**The 22th Japanese Olympiad in Informatics Spring Training Online Contest** is the online contest of [The 22th Japanese Olympiad in Informatics Spring Training](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html).
 The contest is open to everybody.
 
 The secries of the contests will be held in 4 days. The duration of each contest is 5 hours. **You can choose start time from the specified range freely.**
@@ -21,13 +21,13 @@ We will not publish the source code submitted to this contest without permission
 
 After the contest finishes, we will open the judging server for one week. Interested contestants can improve and resubmit their solutions by themselves.
 
-There is no online contest of [The 3nd Japanese Olympiad in Informatics for Girls Spring Camp](https://www.ioi-jp.org/joig-camp/2023/2023-joig-sp_camp-rules.html).
+There is no online contest of [The 3nd Japanese Olympiad in Informatics for Girls Spring Training](https://www.ioi-jp.org/joig-camp/2023/2023-joig-sp_camp-rules.html).
 
 ## Contest Information
 
 <dl>
   <dt>Name</dt>
-    <dd>The 22th Japanese Olympiad in Informatics Spring Camp Online Contest</dd>
+    <dd>The 22th Japanese Olympiad in Informatics Spring Training Online Contest</dd>
 
   <dt>Contest System</dt>
   <dd>
@@ -56,7 +56,7 @@ There is no online contest of [The 3nd Japanese Olympiad in Informatics for Girl
 
 ## Rule
 
-Rules that are the same as [The 22th Japanese Olympiad in Informatics Spring Camp Rule](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html):
+Rules that are the same as [The 22th Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html):
 
 - All submissions will receive full feedback in principle.
 - Contestants may submit at most once per task per minute.
@@ -65,7 +65,7 @@ Rules that are the same as [The 22th Japanese Olympiad in Informatics Spring Cam
 - You cannot use C, Pascal nor Java.
 - You may need to write I/O code by yourself. Graders may not be provided for all tasks.
 
-Rules that are the different from [The 22th Japanese Olympiad in Informatics Spring Camp Rule](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html):
+Rules that are the different from [The 22th Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html):
 
 - Question form is available on a contest server, but no replies are guaranteed.
 

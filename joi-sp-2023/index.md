@@ -1,7 +1,7 @@
 ---
 layout: "default"
 language: "ja"
-title: "第22回日本情報オリンピック 春合宿 オンラインコンテスト"
+title: "第22回日本情報オリンピック 春季トレーニング オンラインコンテスト"
 breadcrumb:
   - ["/", "Home"]
 ---
@@ -10,7 +10,7 @@ breadcrumb:
 
 English version is available [here](./index-en.html).
 
-**第22回日本情報オリンピック 春合宿 オンラインコンテスト**は[第22回日本情報オリンピック 春合宿](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)のオンラインコンテストです．このオンラインコンテストは誰でも参加することができます．
+**第22回日本情報オリンピック 春季トレーニング オンラインコンテスト**は[第22回日本情報オリンピック 春季トレーニング](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)のオンラインコンテストです．このオンラインコンテストは誰でも参加することができます．
 
 一連のコンテストは 4 日間にわたって行われます．1 日のコンテストの期間は 5 時間です．**指定の時間のうち好きな時間に開始できます．**
 
@@ -20,13 +20,13 @@ English version is available [here](./index-en.html).
 
 コンテスト終了後，1 週間ジャッジサーバーを開放します．復習などに役立ててください．
 
-[日本情報オリンピック 第3回女性部門 春合宿](https://www.ioi-jp.org/joig-camp/2023/2023-joig-sp_camp-rules.html)のオンラインコンテストはありません．
+[日本情報オリンピック 第3回女性部門 春季トレーニング](https://www.ioi-jp.org/joig-camp/2023/2023-joig-sp_camp-rules.html)のオンラインコンテストはありません．
 
 ## コンテスト情報
 
 <dl>
   <dt>名称</dt>
-  <dd>第22回日本情報オリンピック 春合宿 オンラインコンテスト</dd>
+  <dd>第22回日本情報オリンピック 春季トレーニング オンラインコンテスト</dd>
 
   <dt>コンテストシステム</dt>
   <dd>
@@ -54,14 +54,14 @@ English version is available [here](./index-en.html).
 
 ## 規則
 
-[日本情報オリンピック春合宿 競技規則](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)と同様の規則：
+[日本情報オリンピック春季トレーニング 競技規則](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)と同様の規則：
 
 - 原則として，すべての課題について，完全なフィードバックが得られます．
 - 各課題ごとに，最後の提出から 1 分間は解答を提出することができません．
 - 各課題ごとに，ソースを提出することができる回数は 50 回までです．
 - C++ が使用できます．バージョンは C++17 です．
 
-[日本情報オリンピック春合宿 競技規則](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)と異なる規則：
+[日本情報オリンピック春季トレーニング 競技規則](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html)と異なる規則：
 
 - CMS の質問機能が使用可能ですが，回答は保証されません．
 
