@@ -39,4 +39,4 @@ isroot: true
 - [第21回日本情報オリンピック 春合宿 オンラインコンテスト](joi-sp-2022/index.html) ([Japanese](joi-sp-2022/index.html) / [English](joi-sp-2022/index-en.html))
 - [JOI Open Contest 2022](open-2022/index.html) (English)
 - [第22回日本情報オリンピック 本選 オンラインコンテスト](joi-ho-2023/index.html) ([Japanese](joi-ho-2023/index.html) / [English](joi-ho-2023/index-en.html))
-- [第22回日本情報オリンピック 春合宿 オンラインコンテスト](joi-sp-2023/index.html) ([Japanese](joi-sp-2023/index.html) / [English](joi-sp-2023/index-en.html))
+- [第22回日本情報オリンピック 春季トレーニング オンラインコンテスト](joi-sp-2023/index.html) ([Japanese](joi-sp-2023/index.html) / [English](joi-sp-2023/index-en.html))
