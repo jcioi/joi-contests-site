@@ -71,4 +71,8 @@ Rules that are the different from [The 22th Japanese Olympiad in Informatics Spr
 
 ## Contest Site
 
-Contest site including registration form and live scoreboard will be open at least 10 minutes before the contest starts.
+- [Contest Site](https://cms.ioi-jp.org)
+
+## Live Scoreboard
+
+- [Live Scoreboard](https://ranking.cms.ioi-jp.org)
