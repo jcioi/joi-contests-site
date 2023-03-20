@@ -67,7 +67,7 @@ Rules that are the same as [The 22th Japanese Olympiad in Informatics Spring Tra
 
 Rules that are the different from [The 22th Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/camp/2023/2023-sp_camp-rules.html):
 
-- Question form is available on a contest server, but no replies are guaranteed.
+- Question form is available on a contest server, but no replies are guaranteed. In particular, questions submitted after 7:00 (UTC/GMT) are not likely to be answered.
 
 ## Contest Site
 
