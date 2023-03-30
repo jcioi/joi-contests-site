@@ -67,7 +67,7 @@ Rules that are the same as [The 21th Japanese Olympiad in Informatics Spring Cam
 
 Rules that are the different from [The 21th Japanese Olympiad in Informatics Spring Camp Rule](https://www.ioi-jp.org/camp/2022/2022-sp_camp-rules.html):
 
-- Question form is available on a contest server, but no replies are guaranteed.
+- Question form is available on a contest server, but no replies are guaranteed. In particular, questions submitted after 7:00 (UTC/GMT) are not likely to be answered.
 
 ## Contest Site
 

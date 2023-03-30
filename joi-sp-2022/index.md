@@ -63,7 +63,7 @@ English version is available [here](./index-en.html).
 
 [日本情報オリンピック春合宿 競技規則](https://www.ioi-jp.org/camp/2022/2022-sp_camp-rules.html)と異なる規則：
 
-- CMS の質問機能が使用可能ですが，回答は保証されません．
+- CMS の質問機能が使用可能ですが，回答は保証されません．特に，16:00 以降の質問は回答されない可能性が高いです．
 
 ## コンテストサイト
 
