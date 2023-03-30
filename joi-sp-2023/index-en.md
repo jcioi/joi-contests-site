@@ -71,8 +71,12 @@ Rules that are the different from [The 22th Japanese Olympiad in Informatics Spr
 
 ## Contest Site
 
-- [Contest Site](https://cms.ioi-jp.org)
+The contests are over.
 
-## Live Scoreboard
+## Ranking
 
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org)
+- [Ranking](ranking.html)
+
+## Tasks and Test Data
+
+The tasks and test data are available in [JOI 2022/2023 Spring Camp Tasks](https://www.ioi-jp.org/camp/2023/2023-sp-tasks/index.html).

@@ -65,10 +65,15 @@ English version is available [here](./index-en.html).
 
 - CMS の質問機能が使用可能ですが，回答は保証されません．
 
+
 ## コンテストサイト
 
-- [コンテストサイト](https://cms.ioi-jp.org)
+コンテストは終了しました。
 
-## ライブスコアボード
+## 順位表
 
-- [ライブスコアボード](https://ranking.cms.ioi-jp.org)
+- [順位表](ranking.html)
+
+## 問題文・テストデータ
+
+問題文・テストデータは[JOI 2022/2023 春季トレーニング合宿　課題](https://www.ioi-jp.org/camp/2023/2023-sp-tasks/index.html)で公開されています。
