@@ -110,7 +110,7 @@ These will be released after the contest.
 We appreciate your feedback on our contest!
 Please answer the questionnaire after the contest.
 
-- This will be released after the contest.
+- [JOI Open Contest 2023 Survey](https://forms.gle/SCRcPENfgLq97nEN7)
 
 ## Contact
 
