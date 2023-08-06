@@ -97,9 +97,9 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Reviews
 
-- ancient2 en (in preparation) / [ja]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol.pdf)
-- cell en (in preparation) / [ja]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol.pdf)
-- garden en (in preparation) / [ja]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol.pdf)
+- ancient2 [en]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol.pdf)
+- cell [en]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol.pdf)
+- garden [en]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol.pdf)
 
 ## Sample Sources
 
