@@ -84,28 +84,35 @@ Rules that are not same as IOI 2017 Rule:
 ## Contest Site
 
 - [Contest Site](https://cms.ioi-jp.org)
-- Registration will be open at least 30 minutes before the contest.
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
 
 ## Ranking
 
-This will be released after the contest.
+- [Ranking](ranking.html)
 
 ## Statements
 
-These will be released after the contest.
+- ancient2 [en]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-statement-en.pdf) / [ja]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-statement.pdf)
+- cell [en]({{ site.datadir }}/open-2023/cell/2023-open-cell-statement-en.pdf) / [ja]({{ site.datadir }}/open-2023/cell/2023-open-cell-statement.pdf)
+- garden [en]({{ site.datadir }}/open-2023/garden/2023-open-garden-statement-en.pdf) / [ja]({{ site.datadir }}/open-2023/garden/2023-open-garden-statement.pdf)
 
 ## Reviews
 
-These will be released after the contest.
+- ancient2 [en]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol.pdf)
+- cell [en]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol.pdf)
+- garden [en]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol-en.pdf) / [ja]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol.pdf)
 
 ## Sample Sources
 
-These will be released after the contest.
+- ancient2 [sol]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-sol.cpp)
+- cell [sol]({{ site.datadir }}/open-2023/cell/2023-open-cell-sol.cpp)
+- garden [sol]({{ site.datadir }}/open-2023/garden/2023-open-garden-sol.cpp)
 
 ## Test Data
 
-These will be released after the contest.
+- [ancient2]({{ site.datadir }}/open-2023/ancient2/2023-open-ancient2-test-data.tar.gz)
+- [cell]({{ site.datadir }}/open-2023/cell/2023-open-cell-test-data.tar.gz)
+- [garden]({{ site.datadir }}/open-2023/garden/2023-open-garden-test-data.tar.gz)
+
 
 ## Questionnaire
 We appreciate your feedback on our contest!
