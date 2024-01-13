@@ -44,7 +44,7 @@ After the contest finishes, we will open the judging server for one week. Intere
   <dd>Sunday, February 4, 2024 10:00 - Monday, February 5, 2024 10:00 (UTC/GMT)</dd>
 
   <dd>You can choose start time from above freely and the duration is 4 hours.</dd>
-  <dd>However, if you start competing after 15:00 (JST), competition ends at 19:00 (JST) and the duration is less than 4 hours.</dd>
+  <dd>However, if you start competing after February 5, 2024 15:00 (JST), competition ends at 19:00 (JST) and the duration is less than 4 hours.</dd>
 </dl>
 
 ## Rule
