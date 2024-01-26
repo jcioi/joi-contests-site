@@ -1,7 +1,7 @@
 ---
 layout: "default"
 language: "en"
-title: "The 23th Japanese Olympiad in Informatics Final Round Online Contest"
+title: "The 23rd Japanese Olympiad in Informatics Final Round Online Contest"
 breadcrumb:
   - ["/", "Home"]
 ---
@@ -10,7 +10,7 @@ breadcrumb:
 
 Japanese version is available [here](./index.html).
 
-**The 23th Japanese Olympiad in Informatics Final Round Online Contest** is the online contest of [The 23th Japanese Olympiad in Informatics Final Round](https://www.ioi-jp.org/joi/2023/2024-ho-outline).
+**The 23rd Japanese Olympiad in Informatics Final Round Online Contest** is the online contest of [The 23rd Japanese Olympiad in Informatics Final Round](https://www.ioi-jp.org/joi/2023/2024-ho-outline).
 The contest is open to everybody.
 
 No prizes will be given to the contestants. Live scoreboard will be provided during the contest. The ranking including the contestants' usernames and scores of each task will be published here after the contest.
@@ -23,7 +23,7 @@ After the contest finishes, we will open the judging server for one week. Intere
 
 <dl>
   <dt>Name</dt>
-    <dd>The 23th Japanese Olympiad in Informatics Online Contest</dd>
+    <dd>The 23rd Japanese Olympiad in Informatics Online Contest</dd>
 
   <dt>Contest System</dt>
   <dd>
@@ -49,7 +49,7 @@ After the contest finishes, we will open the judging server for one week. Intere
 
 ## Rule
 
-Rules that are the same as [The 23th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2023/2024-ho-outline#OV):
+Rules that are the same as [The 23rd Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2023/2024-ho-outline#OV):
 
 - All submissions will receive full feedback.
 - Contestants may submit at most once per task per minute.
@@ -58,7 +58,7 @@ Rules that are the same as [The 23th Japanese Olympiad in Informatics Final Roun
 - You cannot use C, Pascal nor Java.
 - You may need to write I/O code by yourself. Graders are not provided for all tasks.
 
-Rules that are the different from [The 23th Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2023/2024-ho-outline#OV):
+Rules that are the different from [The 23rd Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2023/2024-ho-outline#OV):
 
 - Question form is available on a contest server, but no replies are guaranteed.
 
