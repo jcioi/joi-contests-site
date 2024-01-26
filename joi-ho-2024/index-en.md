@@ -55,7 +55,7 @@ Rules that are the same as [The 23rd Japanese Olympiad in Informatics Final Roun
 - Contestants may submit at most once per task per minute.
 - Contestants may submit at most 50 times per task.
 - Each submitted source code must be written in C++ (C++20).
-- You cannot use C, Pascal nor Java.
+- You cannot use C, Python, Pascal nor Java.
 - You may need to write I/O code by yourself. Graders are not provided for all tasks.
 
 Rules that are the different from [The 23rd Japanese Olympiad in Informatics Final Round Rule](https://www.ioi-jp.org/joi/2023/2024-ho-outline#OV):
