@@ -64,4 +64,5 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- Contest site including registration form and live scoreboard will be open at least 30 minutes before the contest starts.
+- [Contest Site](https://cms.ioi-jp.org)
+- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
