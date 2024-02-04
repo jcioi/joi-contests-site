@@ -61,3 +61,5 @@ English version is available [here](./index-en.html).
 
 - [コンテストサイト](https://cms.ioi-jp.org)
 - [ライブスコアボード](https://ranking.cms.ioi-jp.org/Ranking.html)
+
+<font color="red">技術的な問題により、現在コンテストサイトを閉鎖しています。再びサイトが稼働しましたらこちらに掲示いたします。（18:55追記）</font>

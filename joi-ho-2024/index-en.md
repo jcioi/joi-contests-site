@@ -66,3 +66,5 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Fin
 
 - [Contest Site](https://cms.ioi-jp.org)
 - [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
+
+<font color="red">Due to technical issues, the contest site is currently closed. We will post an update here once the site is operational again. (Update at 18:55)</font>
