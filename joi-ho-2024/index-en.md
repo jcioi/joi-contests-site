@@ -40,8 +40,10 @@ After the contest finishes, we will open the judging server for one week. Intere
   <dd>English, Japanese</dd>
 
   <dt>Date and Time</dt>
-  <dd>Sunday, February 4, 2024 19:00 - Monday, February 5, 2024 19:00 +0900 (JST)</dd>
-  <dd>Sunday, February 4, 2024 10:00 - Monday, February 5, 2024 10:00 (UTC/GMT)</dd>
+  <strike><dd>Sunday, February 4, 2024 19:00 - Monday, February 5, 2024 19:00 +0900 (JST)</dd></strike>
+  <strike><dd>Sunday, February 4, 2024 10:00 - Monday, February 5, 2024 10:00 (UTC/GMT)</dd></strike>
+  <dd>Sunday, February 4, 2024 19:10 - Monday, February 5, 2024 19:10 +0900 (JST)</dd>
+  <dd>Sunday, February 4, 2024 10:10 - Monday, February 5, 2024 10:10 (UTC/GMT) (Updated at Feburary 4, 19:10)</dd>
 
   <dd>You can choose start time from above freely and the duration is 4 hours.</dd>
   <dd>However, if you start competing after February 5, 2024 15:00 (JST), competition ends at 19:00 (JST) and the duration is less than 4 hours.</dd>
@@ -67,4 +69,5 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Fin
 - [Contest Site](https://cms.ioi-jp.org)
 - [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
 
-<font color="red">Due to technical issues, the contest site is currently closed. We will post an update here once the site is operational again. (Update at 18:55)</font>
+<font color="red">Due to technical issues, the contest site is currently closed. We will post an update here once the site is operational again. (Updated at 18:55)<br></font>
+<font color="red">The contest site has been reopened. The contest start time has been delayed by 10 minutes and is now scheduled for 19:10. (Updated at 19:10)</font>
