@@ -66,8 +66,12 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-- [Contest Site](https://cms.ioi-jp.org)
-- [Live Scoreboard](https://ranking.cms.ioi-jp.org/Ranking.html)
+The contest is over.
 
-<font color="red">Due to technical issues, the contest site is currently closed. We will post an update here once the site is operational again. (Updated at 18:55)<br></font>
-<font color="red">The contest site has been reopened. The contest start time has been delayed by 10 minutes and is now scheduled for 19:10. (Updated at 19:10)</font>
+## Ranking
+
+- [Ranking](ranking.html)
+
+## Task statements and dataset
+
+Task statements and dataset are available in [JOI 2023/2024 本選 問題・データ](https://www2.ioi-jp.org/joi/2023/2024-ho/index.html) (Japanese).

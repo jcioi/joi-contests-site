@@ -60,8 +60,12 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- [コンテストサイト](https://cms.ioi-jp.org)
-- [ライブスコアボード](https://ranking.cms.ioi-jp.org/Ranking.html)
+コンテストは終了しました．
 
-<font color="red">技術的な問題により、現在コンテストサイトを閉鎖しております。再びサイトが稼働しましたらこちらに掲示いたします。（18:55追記）<br></font>
-<font color="red">コンテストサイトを再び開放いたしました。コンテスト開始時刻を 10 分遅らせ、19:10 といたします。（19:10追記）</font>
+## ランキング
+
+- [ランキング](ranking.html)
+
+## 問題文・採点用入出力データ・解説
+
+問題文・採点用入出力データ・解説は [JOI 2023/2024 本選 問題・データ](https://www2.ioi-jp.org/joi/2023/2024-ho/index.html) で公開されています．
