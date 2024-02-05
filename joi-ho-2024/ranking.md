@@ -1,3 +1,11 @@
+---
+layout: "default"
+language: "en"
+title: "The 23rd Japanese Olympiad in Informatics Final Round Online Contest - Ranking"
+breadcrumb:
+  - ["/", "Home"]
+  - ["/joi-ho-2024/", "The 23rd Japanese Olympiad in Informatics Final Round Online Contest"]
+---
 <table class="table table-bordered table-striped">
 <thead>
 <tr><th>Rank</th><th>Name</th><th>2024-ho-t1</th><th>2024-ho-t2</th><th>2024-ho-t3</th><th>2024-ho-t4</th><th>2024-ho-t5</th><th>Day1</th></tr>
