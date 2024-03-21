@@ -70,5 +70,7 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Spr
 - Question form is available on a contest server, but no replies are guaranteed. In particular, questions submitted after 7:00 (UTC/GMT) are not likely to be answered.
 
 ## Contest Site
+[Contest Site](https://cms.ioi-jp.org/)
 
-Contest site including registration form and live scoreboard will be open at least 10 minutes before the contest starts.
+## Ranking
+[Ranking Site](https://ranking.cms.ioi-jp.org/)
