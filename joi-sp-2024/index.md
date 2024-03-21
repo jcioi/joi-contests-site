@@ -70,5 +70,3 @@ English version is available [here](./index-en.html).
 
 ## 順位表
 [ライブスコアボード](https://ranking.cms.ioi-jp.org)
-
-- コンテストサイトとライブスコアボードの URL はコンテスト開始 10 分前までに公開します．登録もコンテストサイト公開後に可能となります．
