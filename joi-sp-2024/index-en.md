@@ -72,9 +72,5 @@ Rules that are the different from [The 23rd Japanese Olympiad in Informatics Spr
 ## Contest Site
 [Contest Site](https://cms.ioi-jp.org/)
 
-
-<strike><font color="red">Due to technical issues, contest start time will be delayed by 15 minutes. Sorry for inconvenience.</font></strike><br>
-<font color="red">Due to technical issues, contest start time will be delayed by 50 minutes. Sorry for inconvenience.(Updated at 2:20 (UTC))</font> 
-
 ## Ranking
 [Ranking Site](https://ranking.cms.ioi-jp.org/)

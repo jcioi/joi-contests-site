@@ -68,8 +68,5 @@ English version is available [here](./index-en.html).
 ## コンテストサイト
 [第23回 日本情報オリンピック 春季トレーニング　オンラインコンテスト](https://cms.ioi-jp.org/)
 
-<strike><font color="red">技術的な問題により、コンテストの開始時間が 15 分遅れます．ご迷惑をおかけして申し訳ございません．</font></strike><br>
-<font color="red">技術的な問題により、コンテストの開始時間が 50 分遅れます．ご迷惑をおかけして申し訳ございません（11時20分更新）．</font>
-
 ## 順位表
 [ライブスコアボード](https://ranking.cms.ioi-jp.org)
