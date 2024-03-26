@@ -69,7 +69,7 @@ English version is available [here](./index-en.html).
 コンテストは終了しました。
 
 ## 順位表
-- [順位表][ranking.md]
+- [順位表](ranking.md)
 
 ## 問題文・テストデータ
 
