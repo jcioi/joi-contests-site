@@ -11,7 +11,7 @@ for secondary education.
 The main purpose of this contest is to give an opportunity to
 Japanese delegations and candidates of delegations for training
 and practice. But the contest itself is open to everybody.
-Everybody is welcome to attend JOI Open Contest 2023!
+Everybody is welcome to attend JOI Open Contest 2024!
 
 The duration of the contest is 5 hours.
 **You can choose start time from specified range freely.**
@@ -51,8 +51,8 @@ It includes your username provided via the registration form.
   <dd>English, Japanese</dd>
 
   <dt>Date and Time</dt>
-  <dd>Saturday, June 16, 2023 13:00 - Sunday, June 17, 2023 13:00 +0900 (JST)</dd>
-  <dd>Saturday, June 16, 2023 04:00 - Sunday, June 17, 2023 04:00 (UTC/GMT)</dd>
+  <dd>Sunday, June 16, 2024 13:00 - Monday, June 17, 2024 13:00 +0900 (JST)</dd>
+  <dd>Sunday, June 16, 2024 04:00 - Monday, June 17, 2024 04:00 (UTC/GMT)</dd>
 
   <dd>You can choose start time from above freely and the duration is 5 hours.</dd>
   <dd>However, if you start competing after 08:00 (JST), competition ends at 13:00 (JST) and the duration is less than 5 hours.</dd>
@@ -118,4 +118,4 @@ joiopen at googlegroups.com
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The tasks for JOI Open Contest 2023</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.ioi-jp.org/" property="cc:attributionName" rel="cc:attributionURL">JCIOI (the Japanese Committee for the IOI)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. If you need a license other than a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), please ask JCIOI.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">The tasks for JOI Open Contest 2024</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.ioi-jp.org/" property="cc:attributionName" rel="cc:attributionURL">JCIOI (the Japanese Committee for the IOI)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. If you need a license other than a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0), please ask JCIOI.
