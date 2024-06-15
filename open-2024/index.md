@@ -88,7 +88,7 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Ranking
 
-This will be released after the contest.
+- [Ranking Site](https://ranking.cms.ioi-jp.org/Ranking.html)
 
 ## Statements
 
