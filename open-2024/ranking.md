@@ -1,3 +1,12 @@
+---
+layout: "default"
+language: "en"
+title: "JOI Open Contest 2024 - Ranking"
+breadcrumb:
+  - ["/", "Home"]
+  - ["/open-2024/", "JOI Open Contest 2024"]
+---
+
 <table class="table table-bordered table-striped">
 <thead>
 <tr><th>Rank</th><th>Name</th><th>examination2</th><th>heat</th><th>library3</th><th>Day1</th></tr>
