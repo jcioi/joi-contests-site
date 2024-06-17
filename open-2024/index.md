@@ -96,6 +96,11 @@ Rules that are not same as IOI 2017 Rule:
 - heat [en]({{ site.datadir }}/open-2024/heat/2024-open-heat-statement-en.pdf) / [ja]({{ site.datadir }}/open-2024/heat/2024-open-heat-statement.pdf)
 - library3 [en]({{ site.datadir }}/open-2024/library3/2024-open-library3-statement-en.pdf) / [ja]({{ site.datadir }}/open-2024/library3/2024-open-library3-statement.pdf)
 
+## Task Authors
+- examination 2: Ryomei Sugai
+- heat: Hirotaka Yoneda, Masataka Yoneda
+- library3: Sora Todaka
+
 ## Reviews
 
 - examination2 [en]({{ site.datadir }}/open-2024/examination2/2024-open-examination2-sol-en.pdf) / [ja]({{ site.datadir }}/open-2024/examination2/2024-open-examination2-sol.pdf)
