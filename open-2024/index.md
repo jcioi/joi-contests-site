@@ -98,7 +98,7 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Reviews
 
-- examination2 [en]({{ site.datadir }}/open-2024/examination2/2024-open-examination2-sol-en.pdf / [ja]({{ site.datadir }}/open-2024/examination2/2024-open-ancient2-sol.pdf)
+- examination2 [en]({{ site.datadir }}/open-2024/examination2/2024-open-examination2-sol-en.pdf) / [ja]({{ site.datadir }}/open-2024/examination2/2024-open-ancient2-sol.pdf)
 - heat [en]({{ site.datadir }}/open-2024/heat/2024-open-heat-sol-en.pdf) / [ja]({{ site.datadir }}/open-2024/heat/2024-open-heat-sol.pdf)
 - library3 [en]({{ site.datadir }}/open-2024/library3/2024-open-library3-sol-en.pdf) / [ja]({{ site.datadir }}/open-2024/library3/2024-open-library3-sol.pdf)
 
