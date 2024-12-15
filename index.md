@@ -44,3 +44,4 @@ isroot: true
 - [第23回日本情報オリンピック 本選 オンラインコンテスト](joi-ho-2024/index.html) ([Japanese](joi-ho-2024/index.html) / [English](joi-ho-2024/index-en.html))
 - [第23回日本情報オリンピック 春季トレーニング オンラインコンテスト](joi-sp-2024/index.html) ([Japanese](joi-sp-2024/index.html) / [English](joi-sp-2024/index-en.html))
 - [JOI Open Contest 2024](open-2024/index.html) (English)
+- [第24回日本情報オリンピック 本選 オンラインコンテスト](joi-ho-2025/index.html) ([Japanese](joi-ho-2025/index.html) / [English](joi-ho-2025/index-en.html))
