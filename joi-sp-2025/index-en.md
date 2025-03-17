@@ -56,7 +56,7 @@ There is no online contest of [The 5th Japanese Olympiad in Informatics for Girl
 
 ## Rule
 
-Rules that are the same as [The 23rd Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/joi/2024/2025-sp_camp-rules):
+Rules that are the same as [The 24th Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/joi/2024/2025-sp_camp-rules):
 
 - All submissions will receive full feedback in principle.
 - Contestants may submit at most once per task per minute.
