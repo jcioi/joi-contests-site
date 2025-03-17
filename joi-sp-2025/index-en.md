@@ -44,7 +44,7 @@ There is no online contest of [The 5th Japanese Olympiad in Informatics for Girl
   <dd>English, Japanese</dd>
 
   <dt>Date</dt>
-  <dd>March 21, 2025 to March 24, 2024</dd>
+  <dd>March 21, 2025 to March 24, 2025</dd>
 
   <dt>Time</dt>
   <dd>11:00-09:00 the next day +0900 (JST)</dd>
