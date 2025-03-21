@@ -69,6 +69,11 @@ Rules that are the different from [The 24th Japanese Olympiad in Informatics Spr
 
 - Question form is available on a contest server, but no replies are guaranteed. In particular, questions submitted after 7:00 (UTC/GMT) are not likely to be answered.
 
-## Contest Site
+## Announcement
+<font color="red">Due to technical issues, contest start time will be delayed by 30 minutes. Sorry for inconvenience.(Updated: March 21, 01:50 (UTC))</font> 
 
-Contest site including registration form and live scoreboard will be open at least 10 minutes before the contest starts.
+## Contest Site
+[Contest Site](https://cms.ioi-jp.org/)
+
+## Ranking
+[Ranking Site](https://ranking.cms.ioi-jp.org/)
