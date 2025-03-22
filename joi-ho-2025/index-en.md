@@ -70,4 +70,5 @@ The contest is over.
 - [Ranking](ranking.html)
 
 ## Task statements and dataset
-Task statements and datasets will be available later.
+
+Task statements and dataset are available in [JOI 2024/2025 本選 問題・データ](https://www2.ioi-jp.org/joi/2024/2025-ho/index.html) (Japanese).
