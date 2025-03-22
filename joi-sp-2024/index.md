@@ -73,4 +73,4 @@ English version is available [here](./index-en.html).
 
 ## 問題文・テストデータ
 
-問題文・テストデータは公開予定です。
+問題文・テストデータは[JOI 2023/2024 春季トレーニング　課題](https://www2.ioi-jp.org/camp/2024/2024-sp-tasks/)で公開されています。
