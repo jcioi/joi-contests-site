@@ -69,7 +69,11 @@ English version is available [here](./index-en.html).
 <font color="red">技術的な問題により、コンテストの開始時間が 30 分遅れます．ご迷惑をおかけして申し訳ございません（3月21日10時50分更新）．</font>
 
 ## コンテストサイト
-[第24回 日本情報オリンピック 春季トレーニング　オンラインコンテスト](https://cms.ioi-jp.org/)
+コンテストは終了しました。
  
 ## 順位表
-[ライブスコアボード](https://ranking.cms.ioi-jp.org) 
+- [順位表](ranking.md)
+
+## 問題文・テストデータ
+
+問題文・テストデータは後日公開予定です。

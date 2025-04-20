@@ -73,7 +73,10 @@ Rules that are the different from [The 24th Japanese Olympiad in Informatics Spr
 <font color="red">Due to technical issues, contest start time will be delayed by 30 minutes. Sorry for inconvenience.(Updated: March 21, 01:50 (UTC))</font> 
 
 ## Contest Site
-[Contest Site](https://cms.ioi-jp.org/)
+The contests are over.
 
 ## Ranking
-[Ranking Site](https://ranking.cms.ioi-jp.org/)
+- [Ranking](ranking.md)
+
+## Tasks and Test Data
+The tasks and test data will be made available later.
