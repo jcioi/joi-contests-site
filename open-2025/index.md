@@ -84,7 +84,7 @@ Rules that are not same as IOI 2017 Rule:
 ## Contest Site
 
 - [Contest Site](https://cms.ioi-jp.org)
-- Registration will be open at least 30 minutes before the contest.
+- While the contest site is currently accessible, registration is not yet available. Registration will be open at least 30 minutes before the contest.
 
 ## Ranking
 
