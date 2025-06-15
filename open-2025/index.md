@@ -87,7 +87,7 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Ranking
 
-This will be released after the contest.
+- [Ranking](ranking.html)
 
 ## Statements
 
@@ -113,7 +113,8 @@ These will be released after the contest.
 We appreciate your feedback on our contest!
 Please answer the questionnaire after the contest.
 
-- This will be released after the contest.
+- [JOI Open Contest 2025 Survey](https://docs.google.com/forms/d/e/1FAIpQLSfk7LlQ34pQXGm0-bMW3lGNYHTk7NeYuHcGPXAn15_8k_MvJw/viewform?usp=dialog)
+
 
 ## Contact
 
