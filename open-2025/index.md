@@ -87,11 +87,13 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Ranking
 
-- [Ranking](https://ranking.cms.ioi-jp.org/Ranking.html)
+- [Ranking](ranking.html)
 
 ## Statements
 
-These will be released after the contest.
+- bubble [en]({{ site.datadir }}/open-2025/bubble/statement-en.pdf) / [ja]({{ site.datadir }}/open-2025/bubble/statement.pdf)
+- lottery [en]({{ site.datadir }}/open-2025/lottery/statement-en.pdf) / [ja]({{ site.datadir }}/open-2025/lottery/statement.pdf)
+- telepathy [en]({{ site.datadir }}/open-2025/telepathy/statement-en.pdf) / [ja]({{ site.datadir }}/open-2025/telepathy/statement.pdf)
 
 ## Task Authors
 
@@ -99,17 +101,24 @@ These will be released after the contest.
 
 ## Reviews
 
-These will be released after the contest.
+- bubble [en]({{ site.datadir }}/open-2025/bubble/2025-open-bubble-en.pdf) / [ja]({{ site.datadir }}/open-2025/bubble/2025-open-bubble.pdf)
+- lottery [en]({{ site.datadir }}/open-2025/lottery/2025-open-lottery-en.pdf) / [ja]({{ site.datadir }}/open-2025/lottery/2025-open-lottery.pdf)
+- telepathy [en]({{ site.datadir }}/open-2025/telepathy/review-en.pdf) / [ja]({{ site.datadir }}/open-2025/telepathy/review.pdf)
 
 ## Sample Sources
 
-These will be released after the contest.
+- [bubble]({{ site.datadir }}/open-2025/bubble/2025-open-bubble.cpp)
+- [lottery]({{ site.datadir }}/open-2025/lottery/2025-open-lottery.cpp)
+- [telepathy]({{ site.datadir }}/open-2025/telepathy/sample.cpp)
 
 ## Test Data
 
-These will be released after the contest.
+- bubble [test data]({{ site.datadir }}/open-2025/bubble/bubble.tar.gz)
+- lottery [test data]({{ site.datadir }}/open-2025/lottery/lottery.tar.gz) / [dist]({{ site.datadir }}/open-2025/lottery/2025-open-lottery-dist.zip) / [judge]({{ site.datadir }}/open-2025/lottery/lottery-judge.zip)
+- telepathy [test data]({{ site.datadir }}/open-2025/telepathy/telepathy.tar.gz) / [dist]({{ site.datadir }}/open-2025/telepathy/2025-open-telepathy-dist.zip) / [judge]({{ site.datadir }}/open-2025/telepathy/telepathy-judge.zip)
 
 ## Questionnaire
+
 We appreciate your feedback on our contest!
 Please answer the questionnaire after the contest.
 
