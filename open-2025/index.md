@@ -97,7 +97,9 @@ Rules that are not same as IOI 2017 Rule:
 
 ## Task Authors
 
-These will be released after the contest.
+- bubble: Masaki Nishimoto
+- lottery: Riku Kawasaki
+- telepathy: Yui Hosaka, Hirotaka Yoneda
 
 ## Reviews
 
