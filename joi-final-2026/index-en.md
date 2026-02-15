@@ -27,7 +27,7 @@ There is no online contest of [The 6th Japanese Olympiad in Informatics for Girl
 
 <dl>
   <dt>Name</dt>
-    <dd>The 25th Japanese Olympiad in Informatics Final Stage</dd>
+    <dd>The 25th Japanese Olympiad in Informatics Final Stage Online Contest</dd>
 
   <dt>Contest System</dt>
   <dd>
