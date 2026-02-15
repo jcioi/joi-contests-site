@@ -20,7 +20,7 @@ English version is available [here](./index-en.html).
 
 コンテスト終了後，1 週間ジャッジサーバーを開放します．復習などに役立ててください．
 
-[日本情報オリンピック 第6回女性部門 春季トレーニング](https://www.ioi-jp.org/joig/2025/training)のオンラインコンテストはありません．
+[日本情報オリンピック 第6回女性部門 ファイナルステージ](https://www.ioi-jp.org/joig/2025/training)のオンラインコンテストはありません．
 
 
 ## コンテスト情報
