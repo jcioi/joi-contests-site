@@ -56,10 +56,7 @@ There is no online contest of [The 6th Japanese Olympiad in Informatics for Girl
 
 ## Rule
 
-The contest rules will be released at a later date.
-
-<!--
-Rules that are the same as [The 23rd Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/joi/2024/2025-sp_camp-rules):
+Rules that are the same as [The 25th Japanese Olympiad in Informatics Final Stage Rule](https://www.ioi-jp.org/joi/2025/2026-final-outline#ENV):
 
 - All submissions will receive full feedback in principle.
 - Contestants may submit at most once per task per minute.
@@ -68,11 +65,10 @@ Rules that are the same as [The 23rd Japanese Olympiad in Informatics Spring Tra
 - You cannot use C, Pascal nor Java.
 - You may need to write I/O code by yourself. Graders may not be provided for all tasks.
 
-Rules that are the different from [The 24th Japanese Olympiad in Informatics Spring Training Rule](https://www.ioi-jp.org/joi/2024/2025-sp_camp-rules):
+Rules that are the different from [The 25th Japanese Olympiad in Informatics Final Stage Rule](https://www.ioi-jp.org/joi/2025/2026-final-outline#ENV):
 
 - Question form is available on a contest server, but no replies are guaranteed. In particular, questions submitted after 7:00 (UTC/GMT) are not likely to be answered.
 
--->
 
 ## Contest Site
 
