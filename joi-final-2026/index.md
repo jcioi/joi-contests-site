@@ -68,7 +68,7 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-[第25回 日本情報オリンピック 春季トレーニング　オンラインコンテスト](https://cms.ioi-jp.org/)
+[第25回 日本情報オリンピック ファイナルステージ　オンラインコンテスト](https://cms.ioi-jp.org/)
 
 ## 順位表
 
