@@ -68,4 +68,8 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-- コンテストサイトとライブスコアボードの URL はコンテスト開始 10 分前までに公開します．登録もコンテストサイト公開後に可能となります．
+[第25回 日本情報オリンピック 春季トレーニング　オンラインコンテスト](https://cms.ioi-jp.org/)
+
+## 順位表
+
+[ライブスコアボード](https://ranking.cms.ioi-jp.org) 
