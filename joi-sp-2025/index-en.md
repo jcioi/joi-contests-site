@@ -79,4 +79,5 @@ The contests are over.
 - [Ranking](ranking.md)
 
 ## Tasks and Test Data
-The tasks and test data will be made available later.
+
+The tasks and test data are available in [JOI 2024/2025 Spring Training Tasks](https://www2.ioi-jp.org/camp/2025/2025-sp-tasks/index.html).
