@@ -72,8 +72,11 @@ Rules that are the different from [The 25th Japanese Olympiad in Informatics Fin
 
 ## Contest Site
 
-[Contest site](https://cms.ioi-jp.org/)
+The contests are over.
 
 ## Ranking
 
-[Ranking site](https://ranking.cms.ioi-jp.org)
+[Ranking](ranking.md)
+
+## Tasks and Test Data
+The tasks and test data are available in [JOI 2025/2026 Final Stage Tasks](https://www2.ioi-jp.org/joi/2025/2026-final/).

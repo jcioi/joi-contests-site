@@ -68,8 +68,13 @@ English version is available [here](./index-en.html).
 
 ## コンテストサイト
 
-[第25回 日本情報オリンピック ファイナルステージ　オンラインコンテスト](https://cms.ioi-jp.org/)
+コンテストは終了しました．
 
 ## 順位表
 
-[ライブスコアボード](https://ranking.cms.ioi-jp.org) 
+[順位表](ranking.md)
+
+## 問題文・テストデータ
+
+問題文・テストデータは[JOI 2025/2026　ファイナルステージ　課題](https://www2.ioi-jp.org/joi/2025/2026-final/)
+で公開されています．
